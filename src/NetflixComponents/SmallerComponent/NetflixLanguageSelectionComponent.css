@@ -1,0 +1,12 @@
+.language-select{
+    width: 100px;
+    height: 40px;
+    margin-left: 10px;
+    margin-right: 40px;
+    color:#fff;
+    background-color: rgba(0,0,0,0.3);
+}
+option{
+    background-color: #fff;
+    color: #000;
+}

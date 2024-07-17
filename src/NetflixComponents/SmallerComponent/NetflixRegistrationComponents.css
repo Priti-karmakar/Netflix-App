@@ -1,0 +1,28 @@
+.reg{
+    width: 100%;
+    margin: auto;
+}
+/* .email-box{
+    border-radius: 10px;
+    height: 40px;
+    width: 450px
+} */
+/* .start-button{
+    height: 40px;
+    width: 250px;
+    border-radius: 8px;
+    padding: 5px 15px;
+} */
+
+.btn-get{
+    margin:0px 40px;
+    padding: 5px 15px;
+    font-size: 15px;
+    font-weight: 400px;
+    color: #fff;
+    background-color: rgba(0,0,0,0.3);
+}
+.box-config{
+    border-radius: 15%;
+    
+}

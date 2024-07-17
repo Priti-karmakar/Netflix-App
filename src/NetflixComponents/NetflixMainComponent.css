@@ -1,0 +1,16 @@
+.netflix-main{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+    background-color: rgba(0,0,0,0.6);
+}
+
+.netflix-content{
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 50px;
+}

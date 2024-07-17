@@ -1,0 +1,19 @@
+.pic1{
+    height: 100%;
+    display: flex;
+    color: #fff;
+    background-color: #000;
+}
+.netflix-galOnePara{
+    float: left;
+    margin: 130px 120px;
+}
+
+.img1{
+    content: url("../../public/feature-1.png");
+    filter: saturate(180%);
+}
+.netflix-galOneImg{
+    float: left;
+    margin: 50px 80px 50px 5px;
+}

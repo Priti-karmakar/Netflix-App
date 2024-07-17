@@ -1,0 +1,20 @@
+.pic3{
+    height: 100%;
+    display: flex;
+    color: #fff;
+    background-color: #000;
+}
+.netflix-galThreePara{
+    float: left;
+    margin: 130px 140px;
+}
+
+.img3{
+    content: url("../../public/feature-3.png");
+    filter: saturate(180%);
+    height: fit-content;
+}
+.netflix-galThreeImg{
+    float: left;
+    margin: 50px 100px 50px 5px;
+}

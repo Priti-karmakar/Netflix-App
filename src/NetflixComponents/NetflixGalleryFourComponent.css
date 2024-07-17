@@ -1,0 +1,18 @@
+.pic4{
+    height: 100%;
+    color: #fff;
+    background-color: #000;
+}
+.netflix-galFourPara{
+    float: right;
+     margin: 130px 160px;
+} 
+
+.img4{
+     content: url("../../public/feature-4.png");
+    /* filter: saturate(180%); */
+}
+.netflix-galFourImg{
+    float: left;
+    margin: 80px 80px 50px 200px; 
+} 

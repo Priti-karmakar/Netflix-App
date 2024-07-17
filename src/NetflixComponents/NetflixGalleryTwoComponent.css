@@ -1,0 +1,18 @@
+.pic2{
+    height: 100%;
+    color: #fff;
+    background-color: #000;
+}
+.netflix-galTwoPara{
+    float: right;
+     margin: 130px 160px;
+} 
+
+.img2{
+     content: url("../../public/feature-2.png");
+    filter: saturate(180%);
+}
+.netflix-galTwoImg{
+    float: left;
+    margin: 80px 80px 50px 250px; 
+} 

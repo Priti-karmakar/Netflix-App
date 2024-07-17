@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    margin-top: 13px;
+}
+.footerComp{
+    padding: 60px 180px;
+}
+p{
+    margin: 15px auto;
+}
